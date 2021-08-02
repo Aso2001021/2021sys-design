@@ -4,8 +4,15 @@
 [プロトタイプ](https://www.figma.com/file/2EstFnFmPKiJOQWXGrrG7b/Untitled?node-id=3%3A10)
 
 ******
+
+
 <img src="../img/page 2.png" width="500">
+
+
 ******
+
+
+補足
 
 |ID|要素|内容|アクション|イベント|対応DB|
 |--|--|--|--|--|--|
